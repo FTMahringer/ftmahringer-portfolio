@@ -1,12 +1,12 @@
 # Snake Game
 
-### Description
+## Beschreibung
 
 Eine klassische Snake-Spiel Implementierung mit Erweiterungen wie zufälligen Hindernissen und Futterplatzierung. Entwickelt mit Fokus auf sauberen Code und Spielmechanik.
 
 ---
 
-### Features
+## Features
 
 - **Snake Movement**: Die Schlange bewegt sich in die Richtung, in die der Spieler klickt.
 - **Futterplatzierung**: Futter wird zufällig auf dem Spielfeld platziert.
@@ -14,6 +14,5 @@ Eine klassische Snake-Spiel Implementierung mit Erweiterungen wie zufälligen Hi
 - **Punkte**: Der Spieler erhält Punkte, wenn die Schlange Futter frisst.
 - **Game Over**: Das Spiel endet, wenn die Schlange gegen die Wand oder sich selbst stößt.
 ---
-### Darstellung
-
-![My Local Image](images/snakeGameIMG.png)
+## Darstellung
+<img src="../../../ftmahringer-portfolio/docs/markdowns/images/snakeGameIMG.png" alt="Snake Game" width="600">
